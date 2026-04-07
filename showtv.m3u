@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 1. Bölüm
+https://vmcdn.ciner.com.tr/ht/2026/04/06/80E29283E90F2D30A80445704CE490A7_426x240.mp4
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2022/11/07/10C8DE08AD6EF6CA9605F2062F7CBDDD.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 2. Bölüm
