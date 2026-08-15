@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/06/19/599C0867CDE33B36D591C7B9BDDF9162.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/06/25/E9EE9CD8C670705EBC538BA77917800C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/06/25/E9EE9CD8C670705EBC538BA77917800C.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 3. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/07/09/00FEB618E8D9C79B4DD68C2C04728D59.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 4. Bölüm
@@ -12,11 +12,11 @@ https://vmcdn.ciner.com.tr/ht/2026/07/16/4A621B546BFB49996DCC35F796115DF3.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 6. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/07/23/DF80130150436DC2812607AECF63E728.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/07/30/50620ED0D2F4662B81940ECF16D1DB2C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/07/30/50620ED0D2F4662B81940ECF16D1DB2C.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/08/06/4D356DFF652FA0237BADCBA3A46EA4EB_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/06/4D356DFF652FA0237BADCBA3A46EA4EB.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/08/13/8B3AE4C37F85216693C6F5CFC775EA17_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/13/8B3AE4C37F85216693C6F5CFC775EA17.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2022/11/07/10C8DE08AD6EF6CA9605F2062F7CBDDD.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 2. Bölüm
@@ -248,7 +248,7 @@ https://vmcdn.ciner.com.tr/ht/2025/11/21/1CDBA5C52B0EBFF1F725EC8C9B4D4F18.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 115. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/11/28/A555B8F8792D64CE8B84051C078B7C8C.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 116. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/12/05/817B3220F40948817DB43A5C920A8576_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/12/05/817B3220F40948817DB43A5C920A8576.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 117. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/12/12/D1E711E73892AFD57CD068641E2FF1BC.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 118. Bölüm
@@ -262,21 +262,21 @@ https://vmcdn.ciner.com.tr/ht/2026/01/16/16D92093B4F3366BF0960B5413ACB1F6.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 122. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/01/23/05119A1B7BA219D32C3A744C306959BC.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 123. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/01/30/EFBD4E3C7BD4C32C045C8C9FCA35E66F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/01/30/EFBD4E3C7BD4C32C045C8C9FCA35E66F.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 124. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/02/06/D521B4CDD8793A8DBFD50A06663689D2_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/02/06/D521B4CDD8793A8DBFD50A06663689D2.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 125. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/02/13/D2384C8E4CEAE40BBE4DFC197B297081.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 126. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/02/20/DF63DE59079231A5F168EA8AC873B3E1.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 127. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/03/23/643282A540625192359051D09A933B24_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/03/23/643282A540625192359051D09A933B24.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 128. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/03/06/CDF0EE4FB9BAD18A3FD9998F5D2FC311_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/03/06/CDF0EE4FB9BAD18A3FD9998F5D2FC311.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 129. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/03/13/296A3498735DADD119EB95E28D4110D3.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 130. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/04/14/1424DAA7D0DB9917A9C266A815652AD3_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/04/14/1424DAA7D0DB9917A9C266A815652AD3.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 131. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/04/03/378D49BE7C82D03FC8B3C2AE5C0BBE72.m3u8
 #EXTINF:-1 group-title="KIZILCIKSERBETI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kizilcik-serbeti.jpg", 132. Bölüm
@@ -318,7 +318,7 @@ https://vmcdn.ciner.com.tr/ht/2025/11/20/E0620C70DC5427B816AE61C45BAC8301.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 11. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/11/27/A63C76B64707E454EEE90675EC50AA42.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/12/05/9B4A23F61F757B569D8A0629F8AE32FB_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/12/05/9B4A23F61F757B569D8A0629F8AE32FB.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 13. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/12/14/76E75D2AE282B42BCAA9488B4A20DB83.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 14. Bölüm
@@ -334,7 +334,7 @@ https://vmcdn.ciner.com.tr/ht/2026/01/23/6F05B995D789B97E09B41FFC10583435.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 19. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/01/30/5D06BC3C203C25DCBAC0D5D7D1681061.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/02/06/FEFD8FE884A6B431BB4A190C99B80C4B_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/02/06/FEFD8FE884A6B431BB4A190C99B80C4B.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 21. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/02/13/F5BE01FFB5DB12EC9752BB78C9238575.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 22. Bölüm
@@ -342,11 +342,11 @@ https://vmcdn.ciner.com.tr/ht/2026/02/20/B5CC72F2B5E7586934EF7537C2C4B423.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 23. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/02/27/631F2D0851430DCF62CC437DF61FA5C5.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 24. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/03/06/49FB2C89F9803B0265FE7A6B01988761_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/03/06/49FB2C89F9803B0265FE7A6B01988761.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 25. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/03/13/5F40163EC7F20F16FB3E9898AB153588.m3u8
 #EXTINF:-1 group-title="VELIAHT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/veliaht.jpg", 26. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/03/26/9D393554DCCA3347AC7EAAF04365EE92_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/03/26/9D393554DCCA3347AC7EAAF04365EE92.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/02/22/BE61B566AEA5219082D29427519A065D.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 2. Bölüm
@@ -462,7 +462,7 @@ https://vmcdn.ciner.com.tr/ht/2025/10/24/E43EB94700D1E33C0A418953F6C96AD4.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 56. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/10/29/6B1CC416DC3A16FF5C9D914E35FE73B3.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 57. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/11/05/941C3E7B87FB9A9F59CB1DB1C729D7F3_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/11/05/941C3E7B87FB9A9F59CB1DB1C729D7F3.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 58. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/11/12/86161E643569D48819FA1B1E8BA52F0B.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 59. Bölüm
@@ -470,7 +470,7 @@ https://vmcdn.ciner.com.tr/ht/2025/11/18/4D18F6AFE5AC956B224D4E5D940E66CA.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 60. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/11/26/441DD338866556DD7CA474F2FC36D864.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 61. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/12/07/BB7AD2693DB20D70098E96B0B01F867F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/12/07/BB7AD2693DB20D70098E96B0B01F867F.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 62. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/12/14/15E8F53D7287285638EC4EBF41A1FA57.m3u8
 #EXTINF:-1 group-title="BAHAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg", 63. Bölüm
@@ -890,13 +890,13 @@ https://vmcdn.ciner.com.tr/ht/2025/05/22/8EE828F1DA7666F8D929B418DB07FF26.m3u8
 #EXTINF:-1 group-title="SIYAHKALP" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/siyah-kalp.jpg", 34. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/05/29/15D2D4F8E1A7979F2BFA7CED29A0B466.m3u8
 #EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/04/08/84EB3133E9E993ED6B7F8A27ADD8D612_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/04/08/84EB3133E9E993ED6B7F8A27ADD8D612.m3u8
 #EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/04/13/0FB52D4D55D8C0BFE53301F1DF578D0E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/04/13/0FB52D4D55D8C0BFE53301F1DF578D0E.m3u8
 #EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 3. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/04/20/9E4B2DB68CABBE52C964A2364DD78085.m3u8
 #EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/04/27/25EF5C3A78800927C5F6F6199FA0CD51_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/04/27/25EF5C3A78800927C5F6F6199FA0CD51.m3u8
 #EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 5. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/05/05/4AF2E7B1B3F625442CE573870791DAAD.m3u8
 #EXTINF:-1 group-title="DELIKANLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/delikanli.jpg", 6. Bölüm
@@ -970,7 +970,7 @@ https://vmcdn.ciner.com.tr/ht/2025/12/02/128FF40E56A11F01031840CDCFCAEB4F.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 2. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/12/09/3882B62ABBED735B704C81460395E859.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/12/16/1D67E806F3F4A4A4672AF43597FBF720_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/12/16/1D67E806F3F4A4A4672AF43597FBF720.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 4. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/12/24/4B53DA8ED93E0D9FCEE317A6BB1173B3.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 5. Bölüm
@@ -982,7 +982,7 @@ https://vmcdn.ciner.com.tr/ht/2026/01/13/066F1F99B548C58C80847781005057D6.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 8. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/01/25/CED03B10183F5D02535D58E735923A05.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/02/01/8C59A3189CA32BD7DBE774FED82B47CD_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/02/01/8C59A3189CA32BD7DBE774FED82B47CD.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 10. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/02/08/19A070B42C285A0862E9810525696042.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 11. Bölüm
@@ -990,7 +990,7 @@ https://vmcdn.ciner.com.tr/ht/2026/02/15/59556137FBAB177AEE657D073528382A.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 12. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/02/22/917713D3401AC80EF54D8BB4954F270E.m3u8
 #EXTINF:-1 group-title="RUYAGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya-gibi.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2026/03/01/F619126F0875DCAA6A60512BB0994B8C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2026/03/01/F619126F0875DCAA6A60512BB0994B8C.m3u8
 #EXTINF:-1 group-title="SANDIKKOKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sandik-kokusu.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2023/12/10/638D85375E986EC9C22911F5611DA594.m3u8
 #EXTINF:-1 group-title="SANDIKKOKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sandik-kokusu.jpg", 2. Bölüm
@@ -1380,7 +1380,7 @@ https://vmcdn.ciner.com.tr/ht/2023/05/18/C1B5AC854B2B35CF9551494A3DD1D913.m3u8
 #EXTINF:-1 group-title="GELSINHAYATBILDIGIGIBI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gelsin-hayat-bildigi-gibi.jpg", 41. Bölüm
 https://vmcdn.ciner.com.tr/ht/2023/05/25/8181F28AAD7B0D80B15F53CCBD52806B.m3u8
 #EXTINF:-1 group-title="BEREKETLITOPRAKLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bereketli-topraklar.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/11/02/103C46664E992D5C6993A66479F4F61A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/11/02/103C46664E992D5C6993A66479F4F61A.m3u8
 #EXTINF:-1 group-title="BEREKETLITOPRAKLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bereketli-topraklar.jpg", 2. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/11/09/052B597EA3C0653E2F1C176415F9F9D1.m3u8
 #EXTINF:-1 group-title="BEREKETLITOPRAKLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bereketli-topraklar.jpg", 3. Bölüm
@@ -1388,7 +1388,7 @@ https://vmcdn.ciner.com.tr/ht/2025/11/16/858151952C35318366B6926A95EA9C32.m3u8
 #EXTINF:-1 group-title="BEREKETLITOPRAKLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bereketli-topraklar.jpg", 4. Bölüm
 https://vmcdn.ciner.com.tr/ht/2025/11/23/91ABC307BC9838787B29AB227FB48227.m3u8
 #EXTINF:-1 group-title="BEREKETLITOPRAKLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bereketli-topraklar.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2025/12/04/8F50805EAFF17F4F3E2AD91023BDFC49_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2025/12/04/8F50805EAFF17F4F3E2AD91023BDFC49.m3u8
 #EXTINF:-1 group-title="NEGEMILERYAKTIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-gemiler-yaktim.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2023/12/11/1C9A87CB30929D83C86C63BCC6943B8C.m3u8
 #EXTINF:-1 group-title="NEGEMILERYAKTIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-gemiler-yaktim.jpg", 2. Bölüm
@@ -1782,17 +1782,17 @@ https://vmcdn.ciner.com.tr/ht/2021/04/04/A10396D37A061D57AAF85048641D73A6.m3u8
 #EXTINF:-1 group-title="ARIZA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ariza.jpg", 30. Bölüm
 https://vmcdn.ciner.com.tr/ht/2021/04/11/D475024E265A8873588117C4D057416F.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2019/01/08/05A87897D2601141228F85918D8E4713_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2019/01/08/05A87897D2601141228F85918D8E4713.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/01/CED331DCAA702729D87E41B5C06BE2C9_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/01/CED331DCAA702729D87E41B5C06BE2C9.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/07/797551FDA98475F12A082F3E17B018C6_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/07/797551FDA98475F12A082F3E17B018C6.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/16/B34455B17C94E55AB45FA60D02AACADB_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/16/B34455B17C94E55AB45FA60D02AACADB.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/21/5FC82BD165A2FE46028B2060B6E8D62A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/21/5FC82BD165A2FE46028B2060B6E8D62A.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/28/942666A6E4E72C35B63DB01EB4EDF16F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/28/942666A6E4E72C35B63DB01EB4EDF16F.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 7. Bölüm
 https://vmcdn.ciner.com.tr/ht/2019/02/03/21B861973D16FDE44D914B417EE55BE6.m3u8
 #EXTINF:-1 group-title="CARPISMA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/carpisma.jpg", 8. Bölüm
@@ -2292,23 +2292,23 @@ https://vmcdn.ciner.com.tr/ht/2024/07/22/F19B6E98D26F9954C1DFB8B9A78D30C9.m3u8
 #EXTINF:-1 group-title="KALPATISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kalp-atisi.jpg", 28. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/22/B1DE80FB47687ACA6E7C1AF804EF9780.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/03/22/BDDA91F3EBD3D94FF8BF1BC2D7857A7E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/03/22/BDDA91F3EBD3D94FF8BF1BC2D7857A7E.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/03/29/A0AE8108163165471DA0EAA1E7D90A22_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/03/29/A0AE8108163165471DA0EAA1E7D90A22.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/05/25BE99096A1916B3EEBEA9916945ADF9_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/05/25BE99096A1916B3EEBEA9916945ADF9.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/13/20DE12D42D40D86AA32C4EBCB718FC3E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/13/20DE12D42D40D86AA32C4EBCB718FC3E.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/11/E11F2C064F40F21EA2A2C6D4A506BDB1_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/11/E11F2C064F40F21EA2A2C6D4A506BDB1.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/17/5FC1077D067F5577800CFDC1040C03BD_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/17/5FC1077D067F5577800CFDC1040C03BD.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/23/706F2CEF5F1B364376970B112011C7B5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/23/706F2CEF5F1B364376970B112011C7B5.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/31/CE2B3C13BB901CB91EC9341126150977_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/31/CE2B3C13BB901CB91EC9341126150977.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/08/06/69CB5F88BBF81CABC16FAC7082ACD554_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/08/06/69CB5F88BBF81CABC16FAC7082ACD554.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 12. Bölüm
 https://vmcdn.ciner.com.tr/ht/2019/08/08/B249018369A6213CE04473E96F28EB3D.m3u8
 #EXTINF:-1 group-title="FI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fi.jpg", 13. Bölüm
@@ -2348,21 +2348,21 @@ https://vmcdn.ciner.com.tr/ht/2024/08/05/82B80AE5C3358006B4C82EFDD7C94603.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 8. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/05/8ABE6CA2D2E0BC55A126027433D65C49.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/11/10/CFF6C517677EFEE8260B2499179B09ED_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/11/10/CFF6C517677EFEE8260B2499179B09ED.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/11/17/51778E297199B10264D99AF199B1673F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/11/17/51778E297199B10264D99AF199B1673F.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/11/24/86144434B345B672128EB7559266D38D_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/11/24/86144434B345B672128EB7559266D38D.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/01/3D7B5A1F4450FF75AD059851446FB168_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/01/3D7B5A1F4450FF75AD059851446FB168.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/08/91FEC42E4459AD3193F12498ECA82EC0_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/08/91FEC42E4459AD3193F12498ECA82EC0.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/15/E6E10A3D7DD64BDA8FD154CEC9E18DF2_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/15/E6E10A3D7DD64BDA8FD154CEC9E18DF2.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/22/C4275478CA4462374D6BEAECA97B04BD_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/22/C4275478CA4462374D6BEAECA97B04BD.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/12/29/D8D5B7FF37120B78C041D301B2525EDA_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/12/29/D8D5B7FF37120B78C041D301B2525EDA.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 17. Bölüm
 https://vmcdn.ciner.com.tr/ht/2019/01/26/19801DC5C1BB33266FF5DBE1DADAB7F9.m3u8
 #EXTINF:-1 group-title="GULPERI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulperi.jpg", 18. Bölüm
@@ -2508,13 +2508,13 @@ https://vmcdn.ciner.com.tr/ht/2024/06/30/FCC0497FF86986812F4B2BBFE78302B1.m3u8
 #EXTINF:-1 group-title="YENIGELIN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yeni-gelin.jpg", 59. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/06/30/6029EF72012F5316472791EC01527E4F.m3u8
 #EXTINF:-1 group-title="YENIGELIN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yeni-gelin.jpg", 60. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/11/03/BC86CC7D2AE4503888294E40272EE6CF_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/11/03/BC86CC7D2AE4503888294E40272EE6CF.m3u8
 #EXTINF:-1 group-title="YENIGELIN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yeni-gelin.jpg", 61. Bölüm
 https://vmcdn.ciner.com.tr/ht/2018/11/10/848E7367403F1491128930B42D319E89_426x240.mp4
 #EXTINF:-1 group-title="YENIGELIN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yeni-gelin.jpg", 62. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/11/17/6CDC04EA0BF8C23FA1EEC88C15C7A827_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/11/17/6CDC04EA0BF8C23FA1EEC88C15C7A827.m3u8
 #EXTINF:-1 group-title="YENIGELIN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yeni-gelin.jpg", 63. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/11/24/EF082B996D641319476A10C70703340E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/11/24/EF082B996D641319476A10C70703340E.m3u8
 #EXTINF:-1 group-title="ASKLAFTANANLAMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-laftan-anlamaz.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/06/25/50BF580CCDFBC584FAC4D6FD1A28AE91.m3u8
 #EXTINF:-1 group-title="ASKLAFTANANLAMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-laftan-anlamaz.jpg", 2. Bölüm
@@ -2608,21 +2608,21 @@ https://vmcdn.ciner.com.tr/ht/2020/10/28/53C5946B1480610A92D584722A26E9F4.m3u8
 #EXTINF:-1 group-title="SEREFSOZU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/seref-sozu.jpg", 4. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/11/04/B2D9FCCC21F5A5DC750A015C68AA7053.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/4D7DCD93BC5A7DD021D1CABB573694BF_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/4D7DCD93BC5A7DD021D1CABB573694BF.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/82E2B4CEEFA2260B949E379BD7A723EF_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/82E2B4CEEFA2260B949E379BD7A723EF.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/E6DC0F5389775DFCB582D2FEAD9C1091_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/E6DC0F5389775DFCB582D2FEAD9C1091.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/002BF36DE4C025F7C3C0B78F2CB1A131_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/002BF36DE4C025F7C3C0B78F2CB1A131.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/CD0874701931AF3B8A21F6D2C3D0D988_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/CD0874701931AF3B8A21F6D2C3D0D988.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/60778E51FE83F3F5C164CC9472FCD52D_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/60778E51FE83F3F5C164CC9472FCD52D.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/C689938037A5150AC8CBAD80CE51D9E5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/C689938037A5150AC8CBAD80CE51D9E5.m3u8
 #EXTINF:-1 group-title="KLAVYEDELIKANLILARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/klavye-delikanlilari.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/12/8FE8806D470CAAC97D6858008A86691E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/12/8FE8806D470CAAC97D6858008A86691E.m3u8
 #EXTINF:-1 group-title="GULUMSEYETER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulumse-yeter.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/25/0226CE3F72A537D6A6CCCE481781E3FB.m3u8
 #EXTINF:-1 group-title="GULUMSEYETER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gulumse-yeter.jpg", 2. Bölüm
@@ -2798,7 +2798,7 @@ https://vmcdn.ciner.com.tr/ht/2024/08/06/00600FC433A0262948CF776FD8070F6D.m3u8
 #EXTINF:-1 group-title="RUYA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya.jpg", 4. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/06/B6B23A9AE6682179EB2B40887C49B78D.m3u8
 #EXTINF:-1 group-title="RUYA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/08/15/F05FA452E0D66D2F92750544C8E2F95C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/08/15/F05FA452E0D66D2F92750544C8E2F95C.m3u8
 #EXTINF:-1 group-title="RUYA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya.jpg", 7. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/06/613A471EBC34F208193150CA38E8CAC8.m3u8
 #EXTINF:-1 group-title="RUYA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruya.jpg", 8. Bölüm
@@ -2836,7 +2836,7 @@ https://vmcdn.ciner.com.tr/ht/2024/07/31/4BF87808DC80B70A6449F2832E0D1EE2.m3u8
 #EXTINF:-1 group-title="CESURYUREK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cesur-yurek.jpg", 14. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/31/4B88131ACB14928FF48BDDC4B122D189.m3u8
 #EXTINF:-1 group-title="CESURYUREK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cesur-yurek.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/01/27/1F535F0587A667E1358876E7EC0FE4DD_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/01/27/1F535F0587A667E1358876E7EC0FE4DD.m3u8
 #EXTINF:-1 group-title="CESURYUREK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cesur-yurek.jpg", 16. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/01/F49109C1399A86BB9FBC0B0C02B205C1.m3u8
 #EXTINF:-1 group-title="CESURYUREK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cesur-yurek.jpg", 17. Bölüm
@@ -2886,35 +2886,35 @@ https://vmcdn.ciner.com.tr/ht/2019/04/21/3D2CC02BA426AECA4ED41DC938CDB527.m3u8
 #EXTINF:-1 group-title="NOBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/nobet.jpg", 8. Bölüm
 https://vmcdn.ciner.com.tr/ht/2019/05/05/F2E3EBF3A78B87BA8F9F61B75185CFE6.m3u8
 #EXTINF:-1 group-title="DARISIBASIMIZA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/darisi-basimiza.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/04/D2569493EA469AD08D5FC59F662AE6C2_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/04/D2569493EA469AD08D5FC59F662AE6C2.m3u8
 #EXTINF:-1 group-title="DARISIBASIMIZA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/darisi-basimiza.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/11/0394E40EF963D8311621F53DDB98C242_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/11/0394E40EF963D8311621F53DDB98C242.m3u8
 #EXTINF:-1 group-title="DARISIBASIMIZA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/darisi-basimiza.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/18/49945F255D0F51F28CAFE2AF42CF6BB5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/18/49945F255D0F51F28CAFE2AF42CF6BB5.m3u8
 #EXTINF:-1 group-title="DARISIBASIMIZA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/darisi-basimiza.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/07/25/F0A26A971B80535C77C1D2C1EB9050FB_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/07/25/F0A26A971B80535C77C1D2C1EB9050FB.m3u8
 #EXTINF:-1 group-title="DARISIBASIMIZA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/darisi-basimiza.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/08/01/0461F1ECC398666CCE961BCC5DFD6444_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/08/01/0461F1ECC398666CCE961BCC5DFD6444.m3u8
 #EXTINF:-1 group-title="TEHLIKELIKARIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tehlikeli-karim.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/03/25/ED22DFBC2037FE30CF1D14FB842F6985_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/03/25/ED22DFBC2037FE30CF1D14FB842F6985.m3u8
 #EXTINF:-1 group-title="TEHLIKELIKARIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tehlikeli-karim.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/01/D1145910246A02936FC70958E8B34F25_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/01/D1145910246A02936FC70958E8B34F25.m3u8
 #EXTINF:-1 group-title="TEHLIKELIKARIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tehlikeli-karim.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/08/22A815EA87165AA99A7A683988B47C3E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/08/22A815EA87165AA99A7A683988B47C3E.m3u8
 #EXTINF:-1 group-title="TEHLIKELIKARIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tehlikeli-karim.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/15/8E802414A213A3B0DF75F11FA68BF101_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/15/8E802414A213A3B0DF75F11FA68BF101.m3u8
 #EXTINF:-1 group-title="TEHLIKELIKARIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tehlikeli-karim.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/22/FE1ACB185D2AC49206703E8E5FC8DB8A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/22/FE1ACB185D2AC49206703E8E5FC8DB8A.m3u8
 #EXTINF:-1 group-title="TEHLIKELIKARIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tehlikeli-karim.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/29/4DD02EAED775E62C86EFAB07C658BFB7_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/29/4DD02EAED775E62C86EFAB07C658BFB7.m3u8
 #EXTINF:-1 group-title="SERVET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/servet.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/12/DF5DD1689852849AD9A2DBDBC4EED654_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/12/DF5DD1689852849AD9A2DBDBC4EED654.m3u8
 #EXTINF:-1 group-title="SERVET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/servet.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/19/1F61FE25105A389B21F002723CD3235B_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/19/1F61FE25105A389B21F002723CD3235B.m3u8
 #EXTINF:-1 group-title="SERVET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/servet.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/04/26/B5EC8DD09874C17C9AF8EBED11BB6C25_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/04/26/B5EC8DD09874C17C9AF8EBED11BB6C25.m3u8
 #EXTINF:-1 group-title="SERVET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/servet.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/05/03/F56B2AE5B48FACD58DEAD1058285112D_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/05/03/F56B2AE5B48FACD58DEAD1058285112D.m3u8
 #EXTINF:-1 group-title="DUDAKTANKALBE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dudaktan-kalbe.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2022/04/12/2569FCEF175E50E18BF771CB092C70EB.m3u8
 #EXTINF:-1 group-title="DUDAKTANKALBE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dudaktan-kalbe.jpg", 2. Bölüm
@@ -3066,47 +3066,47 @@ https://vmcdn.ciner.com.tr/ht/2022/04/19/76535607882C88139410C5C4760D8E44.m3u8
 #EXTINF:-1 group-title="DUDAKTANKALBE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dudaktan-kalbe.jpg", 75. Bölüm
 https://vmcdn.ciner.com.tr/ht/2022/04/19/0EBDFFF9DE4400A4CF25136370533C3B.m3u8
 #EXTINF:-1 group-title="YUVAMDAKIDUSMAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuvamdaki-dusman.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/01/25/5247ADFA20317BFD0886BCB79274826A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/01/25/5247ADFA20317BFD0886BCB79274826A.m3u8
 #EXTINF:-1 group-title="YUVAMDAKIDUSMAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuvamdaki-dusman.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/01/980D8005D1A0AB5E5BC561F297780CC5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/01/980D8005D1A0AB5E5BC561F297780CC5.m3u8
 #EXTINF:-1 group-title="YUVAMDAKIDUSMAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuvamdaki-dusman.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/08/4F1FB0634F0126BA457C94492C1593B6_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/08/4F1FB0634F0126BA457C94492C1593B6.m3u8
 #EXTINF:-1 group-title="YUVAMDAKIDUSMAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuvamdaki-dusman.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/15/3926D16ECD8301C54396268878FF3D49_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/15/3926D16ECD8301C54396268878FF3D49.m3u8
 #EXTINF:-1 group-title="YUVAMDAKIDUSMAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuvamdaki-dusman.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/02/22/DFCEA69484D892AB7E3CB5E3DD5F70CC_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/02/22/DFCEA69484D892AB7E3CB5E3DD5F70CC.m3u8
 #EXTINF:-1 group-title="YUVAMDAKIDUSMAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuvamdaki-dusman.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/03/01/5F6EC51FEA833026B130B2AD8BFC2354_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/03/01/5F6EC51FEA833026B130B2AD8BFC2354.m3u8
 #EXTINF:-1 group-title="YUZYUZE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yuz-yuze.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2019/08/03/3A4CCCFA3CCCE88E6639A84BFC41FADA_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2019/08/03/3A4CCCFA3CCCE88E6639A84BFC41FADA.m3u8
 #EXTINF:-1 group-title="KESKEHICBUYUMESEYDIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/keske-hic-buyumeseydik.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/09/09/C0A10C823886E36C665A1928AB6557E5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/09/09/C0A10C823886E36C665A1928AB6557E5.m3u8
 #EXTINF:-1 group-title="KESKEHICBUYUMESEYDIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/keske-hic-buyumeseydik.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/09/16/F8C8DAC77E2C1A4473872EC83AB2AE31_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/09/16/F8C8DAC77E2C1A4473872EC83AB2AE31.m3u8
 #EXTINF:-1 group-title="KESKEHICBUYUMESEYDIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/keske-hic-buyumeseydik.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/09/23/EFD3E434C25846029239F561D3DEDF9D_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/09/23/EFD3E434C25846029239F561D3DEDF9D.m3u8
 #EXTINF:-1 group-title="KESKEHICBUYUMESEYDIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/keske-hic-buyumeseydik.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2018/09/30/F6472B3E2AA47E10F95DAEF9DDF907C4_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2018/09/30/F6472B3E2AA47E10F95DAEF9DDF907C4.m3u8
 #EXTINF:-1 group-title="BIRDELISEVDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bir-deli-sevda.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/04/09/F763726E30B70E0B36B1A52BE03E69AD_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/04/09/F763726E30B70E0B36B1A52BE03E69AD.m3u8
 #EXTINF:-1 group-title="BIRDELISEVDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bir-deli-sevda.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/04/12/401727E6C446CB5F49BFF9295CF7A143_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/04/12/401727E6C446CB5F49BFF9295CF7A143.m3u8
 #EXTINF:-1 group-title="BIRDELISEVDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bir-deli-sevda.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/05/09/6611C12FF750DECB0B8C99803B6A2228_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/05/09/6611C12FF750DECB0B8C99803B6A2228.m3u8
 #EXTINF:-1 group-title="BIRDELISEVDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bir-deli-sevda.jpg", Final HD  - Son Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/05/16/C3BC627F78D88510A0AB44458F4699B9_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/05/16/C3BC627F78D88510A0AB44458F4699B9.m3u8
 #EXTINF:-1 group-title="ASKVEGURUR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-ve-gurur.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/03/05/25B94A510047204396D6A96EF791D7AE_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/03/05/25B94A510047204396D6A96EF791D7AE.m3u8
 #EXTINF:-1 group-title="ASKVEGURUR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-ve-gurur.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/03/12/7012A837B5CE6C50737DDD5C05F20D7D_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/03/12/7012A837B5CE6C50737DDD5C05F20D7D.m3u8
 #EXTINF:-1 group-title="ASKVEGURUR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-ve-gurur.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/03/19/18A1AC5B2C5782DF98F8CEF0038B1E90_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/03/19/18A1AC5B2C5782DF98F8CEF0038B1E90.m3u8
 #EXTINF:-1 group-title="ASKVEGURUR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-ve-gurur.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/03/28/A4FF377E280A0248C1232F5B10D842C1_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/03/28/A4FF377E280A0248C1232F5B10D842C1.m3u8
 #EXTINF:-1 group-title="ASKVEGURUR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-ve-gurur.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/04/04/8ADD0CFC98B24F8A64E20BC00958D8B7_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/04/04/8ADD0CFC98B24F8A64E20BC00958D8B7.m3u8
 #EXTINF:-1 group-title="ASKVEGURUR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ask-ve-gurur.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2017/04/11/71039064E89E4F9F5D5C2FECFDA5A5E7_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2017/04/11/71039064E89E4F9F5D5C2FECFDA5A5E7.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/26/73EADEFD17DC88982CEE59E78F6387BE.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 2. Bölüm
@@ -3120,7 +3120,7 @@ https://vmcdn.ciner.com.tr/ht/2024/07/26/D233F0AC499D23660CA0C57FA47DCDD9.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 6. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/26/11603124C6E400D24B13710128338773.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/08/22/40E30BFA553C3C422251ED83D1AEB1BD_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/08/22/40E30BFA553C3C422251ED83D1AEB1BD.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 8. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/26/067E65E07D7ED695224FE3DCA9F762F6.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 9. Bölüm
@@ -3170,27 +3170,27 @@ https://vmcdn.ciner.com.tr/ht/2024/07/30/6AA1E3D6D4F67FD154A87F2B3061EE46.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 31. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/29/B0A2CFBB2B884592CC8EECE779A3494F.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 32. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/02/27/A246D0F3D6F1EAE466FC2B34ED22ACE0_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/02/27/A246D0F3D6F1EAE466FC2B34ED22ACE0.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 33. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/30/CCC0F0790E00131C65ED828303397C9D.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 34. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/03/12/0F2C9DBDBB42A7FEB76A16BBFB9041A6_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/03/12/0F2C9DBDBB42A7FEB76A16BBFB9041A6.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 35. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/03/19/CE8E78B6A6450900D7D7BCEE28A25B9A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/03/19/CE8E78B6A6450900D7D7BCEE28A25B9A.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 36. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/29/FE2E5DF90D19B02A4839736A7E0B3D18.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 37. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/29/E7D8A62B926015DA3B8E3224B04CE803.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 38. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/04/09/96C4DB339748CBEF90FC79A2DB7E1590_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/04/09/96C4DB339748CBEF90FC79A2DB7E1590.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 39. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/29/A067740F1524FE5C4339B818B3295320.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUKARISIK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-karisik.jpg", 40. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/29/DDA92670ED2350D3CBE71FAB232EFB39.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUEVLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-evli.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/10/01/299CE37B0EAC5DCB5C13401145CE712F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/10/01/299CE37B0EAC5DCB5C13401145CE712F.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUEVLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-evli.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/10/08/F0A8750255F89C5DAF5FBDD25EA8E33B_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/10/08/F0A8750255F89C5DAF5FBDD25EA8E33B.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUEVLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-evli.jpg", 3. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/02/08/7755A6C737E4B90FF5E40176C651407E.m3u8
 #EXTINF:-1 group-title="ILISKIDURUMUEVLI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/iliski-durumu-evli.jpg", 4. Bölüm
@@ -3214,15 +3214,15 @@ https://vmcdn.ciner.com.tr/ht/2024/08/06/2692A8985AA10D6B38F55A3007796802.m3u8
 #EXTINF:-1 group-title="ISTANBULSOKAKLARI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/istanbul-sokaklari.jpg", 9. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/06/6A8845CB212BA13A3EFBEA5206E13566.m3u8
 #EXTINF:-1 group-title="OYUNBOZAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/oyunbozan.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/04/16/CC0805C1BC063957E79FBD7956870414_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/04/16/CC0805C1BC063957E79FBD7956870414.m3u8
 #EXTINF:-1 group-title="OYUNBOZAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/oyunbozan.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/04/23/70FB16C62D666DEA1870C725B2A5A5CA_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/04/23/70FB16C62D666DEA1870C725B2A5A5CA.m3u8
 #EXTINF:-1 group-title="OYUNBOZAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/oyunbozan.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/04/30/88170A846587F9E8FD36E576C6DBA23F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/04/30/88170A846587F9E8FD36E576C6DBA23F.m3u8
 #EXTINF:-1 group-title="OYUNBOZAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/oyunbozan.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/05/07/B9702C69C728971661C6ACE9C0386FFE_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/05/07/B9702C69C728971661C6ACE9C0386FFE.m3u8
 #EXTINF:-1 group-title="OYUNBOZAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/oyunbozan.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2016/05/14/479150E657101574112C08424EF41146_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2016/05/14/479150E657101574112C08424EF41146.m3u8
 #EXTINF:-1 group-title="ACIASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/aci-ask.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/03/D8B266C9736F1D2536EBE357485FD3E5.m3u8
 #EXTINF:-1 group-title="ACIASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/aci-ask.jpg", 2. Bölüm
@@ -3370,149 +3370,149 @@ https://vmcdn.ciner.com.tr/ht/2024/07/09/762A5394E299ED0D57CFC1E485869FF2.m3u8
 #EXTINF:-1 group-title="YILANLARINOCU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/yilanlarin-ocu.jpg", 49. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/09/DDAE13B615881AFC1218A34F7C2DCEC9.m3u8
 #EXTINF:-1 group-title="GAMSIZHAYAT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gamsiz-hayat.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/19/E468323812CA63982C54754BD295B49E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/19/E468323812CA63982C54754BD295B49E.m3u8
 #EXTINF:-1 group-title="GAMSIZHAYAT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gamsiz-hayat.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/25/B2FC3CB39EFAC1FC651CBBD76412ABC5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/25/B2FC3CB39EFAC1FC651CBBD76412ABC5.m3u8
 #EXTINF:-1 group-title="GAMSIZHAYAT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gamsiz-hayat.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/08/A2934B40260C91FB6E466540E8D950B4_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/08/A2934B40260C91FB6E466540E8D950B4.m3u8
 #EXTINF:-1 group-title="GAMSIZHAYAT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gamsiz-hayat.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/15/053C53EFB3F98A085DACD28759CE6FF1_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/15/053C53EFB3F98A085DACD28759CE6FF1.m3u8
 #EXTINF:-1 group-title="GAMSIZHAYAT" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/gamsiz-hayat.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/23/4EB67C3A361613D7C024845828B4EA13_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/23/4EB67C3A361613D7C024845828B4EA13.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/07/E94F196CF4B9C27302D0C92DCCAD4E0F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/07/E94F196CF4B9C27302D0C92DCCAD4E0F.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/08/3C911F63E4D75E995B2B3E031C3A4772_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/08/3C911F63E4D75E995B2B3E031C3A4772.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/09/778C8951C2D7EA03D22E46518408DDA8_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/09/778C8951C2D7EA03D22E46518408DDA8.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/10/70FA0061636E39BE3BC486E00858ADB2_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/10/70FA0061636E39BE3BC486E00858ADB2.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/11/58E3FE8DD75C8EE2312582159C3E0F2F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/11/58E3FE8DD75C8EE2312582159C3E0F2F.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/14/E4D742FCB632BCC734BF1A4F91724DB4_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/14/E4D742FCB632BCC734BF1A4F91724DB4.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/15/A4C7AD1AAF82F7EFE7055F75BF54238C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/15/A4C7AD1AAF82F7EFE7055F75BF54238C.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/16/DCE417BF6B64E326BD2CAED02E5E3477_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/16/DCE417BF6B64E326BD2CAED02E5E3477.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/17/5948711729E1A421E614405F458CD420_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/17/5948711729E1A421E614405F458CD420.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/19/91F2D1B64839FE00B05A435E0C88CD08_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/19/91F2D1B64839FE00B05A435E0C88CD08.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/22/2B5AC25ED6D578BC36F7752AB59DB7F9_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/22/2B5AC25ED6D578BC36F7752AB59DB7F9.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/23/358166AB6D9DB4697B16F7BE61269563_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/23/358166AB6D9DB4697B16F7BE61269563.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/24/CCA31E04AB7F959CDA614B426877CCE5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/24/CCA31E04AB7F959CDA614B426877CCE5.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/25/B91433B9D627E6EB9D79946C6D79F64A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/25/B91433B9D627E6EB9D79946C6D79F64A.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/28/53B68DB35A77B419B966A9CB3E2F1A15_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/28/53B68DB35A77B419B966A9CB3E2F1A15.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/29/9A7799D3012C6C49D2323FAD0B66226C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/29/9A7799D3012C6C49D2323FAD0B66226C.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 17. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/30/A46F61E2CA5197B8C33905EBF431C32E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/30/A46F61E2CA5197B8C33905EBF431C32E.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 18. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/01/2D83EFADE971708F035368DF1B4C0905_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/01/2D83EFADE971708F035368DF1B4C0905.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 19. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/02/5D84B75FD5C7ADD3C67B12503EE7F024_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/02/5D84B75FD5C7ADD3C67B12503EE7F024.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/05/D9BDEA1F9CDD001A690AA9F724D04E44_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/05/D9BDEA1F9CDD001A690AA9F724D04E44.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 21. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/06/87BD956BF16A97BB542CAF03CA5693C5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/06/87BD956BF16A97BB542CAF03CA5693C5.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 22. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/07/12B7EF9F749E26D7D77ADCC0055C350B_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/07/12B7EF9F749E26D7D77ADCC0055C350B.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 23. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/08/48B8B42241E855F5C8FA3D713FC67375_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/08/48B8B42241E855F5C8FA3D713FC67375.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 24. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/09/05495A96969CF7972FFE8133506E3437_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/09/05495A96969CF7972FFE8133506E3437.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 25. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/12/74D2806F909CF55915B829C8855FEBD4_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/12/74D2806F909CF55915B829C8855FEBD4.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 26. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/14/5CCBA28FC198C5347939787C46D49207_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/14/5CCBA28FC198C5347939787C46D49207.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 27. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/16/5C8AF412F0348F6E6DE7DFB0067644E5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/16/5C8AF412F0348F6E6DE7DFB0067644E5.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 28. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/17/113AB237DD02E4AC3146A056271C961B_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/17/113AB237DD02E4AC3146A056271C961B.m3u8
 #EXTINF:-1 group-title="DENIZYILDIZI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/deniz-yildizi.jpg", 29. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/18/17F6335D4AB96EEA2D6D7F0FC55A2ACC_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/18/17F6335D4AB96EEA2D6D7F0FC55A2ACC.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/06/B0A863C70BD2E48638FE75DA9907BDFE_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/06/B0A863C70BD2E48638FE75DA9907BDFE.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/13/C8B0A3376DCC7882404BBC778DEF2B5A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/13/C8B0A3376DCC7882404BBC778DEF2B5A.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/20/755871945334E0091D8CCB23EE9C006C_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/20/755871945334E0091D8CCB23EE9C006C.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/27/522A7ADB837B3D10C1332EC10454B662_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/27/522A7ADB837B3D10C1332EC10454B662.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/08/03/3EA8C5DD32C4B083BF4C2349DD22186F_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/08/03/3EA8C5DD32C4B083BF4C2349DD22186F.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/08/10/320F8E36F5CB041FF6FB9D7061B6D8D6_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/08/10/320F8E36F5CB041FF6FB9D7061B6D8D6.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/08/17/97A6176C5F941147A433617ED426BEEB_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/08/17/97A6176C5F941147A433617ED426BEEB.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/08/24/48F6228F79F99A9F157F289935C5F2B5_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/08/24/48F6228F79F99A9F157F289935C5F2B5.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/04/C5CE4A71683FF4F0E81A8037111582FE_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/04/C5CE4A71683FF4F0E81A8037111582FE.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/07/7DDC066A7ECAE2E7CB41A2E50D9302EA_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/07/7DDC066A7ECAE2E7CB41A2E50D9302EA.m3u8
 #EXTINF:-1 group-title="NEMUNASEBET" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ne-munasebet.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/09/13/9BF3811BA8FB7BFB4E8EC4EB24F41B0A_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/09/13/9BF3811BA8FB7BFB4E8EC4EB24F41B0A.m3u8
 #EXTINF:-1 group-title="TUTARMITUTAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tutar-mi-tutar.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/06/26/60A7B26E7A0EABF3D852C6D5DEB13515_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/06/26/60A7B26E7A0EABF3D852C6D5DEB13515.m3u8
 #EXTINF:-1 group-title="TUTARMITUTAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tutar-mi-tutar.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/03/B426DB7D1D0EA2D262B2E1BAD1578558_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/03/B426DB7D1D0EA2D262B2E1BAD1578558.m3u8
 #EXTINF:-1 group-title="TUTARMITUTAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tutar-mi-tutar.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/10/EC18B53E9FBEB250D4B625CF2B5A7925_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/10/EC18B53E9FBEB250D4B625CF2B5A7925.m3u8
 #EXTINF:-1 group-title="TUTARMITUTAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/tutar-mi-tutar.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/25/F0B036FC2ACE6EC7276AD5B72D4BA350_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/25/F0B036FC2ACE6EC7276AD5B72D4BA350.m3u8
 #EXTINF:-1 group-title="BEYAZYALAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/beyaz-yalan.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/03/23/FF89E0A74D7F430D54BF10B1FB4A3DBC_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/03/23/FF89E0A74D7F430D54BF10B1FB4A3DBC.m3u8
 #EXTINF:-1 group-title="BEYAZYALAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/beyaz-yalan.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/06/F35CA1A90146344194DA3977D37FB6BB_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/04/06/F35CA1A90146344194DA3977D37FB6BB.m3u8
 #EXTINF:-1 group-title="BEYAZYALAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/beyaz-yalan.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/12/EC2FB97AB7CC1C1E17A96CFA4BC19EB6_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/04/12/EC2FB97AB7CC1C1E17A96CFA4BC19EB6.m3u8
 #EXTINF:-1 group-title="BEYAZYALAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/beyaz-yalan.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/19/E71A57CA058AC74BF968AC41051E1794_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/04/19/E71A57CA058AC74BF968AC41051E1794.m3u8
 #EXTINF:-1 group-title="BEYAZYALAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/beyaz-yalan.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/27/00D409CDD222C414C95FAE8AD7C03FE2_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/04/27/00D409CDD222C414C95FAE8AD7C03FE2.m3u8
 #EXTINF:-1 group-title="BEYAZYALAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/beyaz-yalan.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/05/02/31426DF2F2418F26CCB409A884503565_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/05/02/31426DF2F2418F26CCB409A884503565.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/11/FD06CD5BEBDDB335B469AA63A89D7F1C_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/11/FD06CD5BEBDDB335B469AA63A89D7F1C.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/AAF19609720E38B1B2338C4B90FBEA4E_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/AAF19609720E38B1B2338C4B90FBEA4E.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/F365521A51BB380F365E6F49FB5B37A6_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/F365521A51BB380F365E6F49FB5B37A6.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/333007093DE318D13BCCCA83A7A0E8CD_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/333007093DE318D13BCCCA83A7A0E8CD.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/41740E2A53C363A04FFA6ED471EAF748_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/41740E2A53C363A04FFA6ED471EAF748.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/68E3ACA08EEF6081838D761608730599_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/68E3ACA08EEF6081838D761608730599.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/8FBE9ADBEAB981772EF6B4AE88B36353_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/8FBE9ADBEAB981772EF6B4AE88B36353.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/5B75BD35566E11FCABCA6651E68038D0_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/5B75BD35566E11FCABCA6651E68038D0.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/175BFEEBF34E78DCCF33401AC297B0B2_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/175BFEEBF34E78DCCF33401AC297B0B2.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/01/30/EBBECFACBD3592C5D20186D4623A145A_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/01/30/EBBECFACBD3592C5D20186D4623A145A.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/01/28/421C63CB26E77BA58564B3826F280020_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/01/28/421C63CB26E77BA58564B3826F280020.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/01/24/15FF2C3499D101487402B17333D1AED9_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/01/24/15FF2C3499D101487402B17333D1AED9.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/03/021B96A818D58B50C980C92C64DD9AFD_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/03/021B96A818D58B50C980C92C64DD9AFD.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/10/CB99531AE530A363742B52C4C7DB4281_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/10/CB99531AE530A363742B52C4C7DB4281.m3u8
 #EXTINF:-1 group-title="DOKTORLARACILSERVIS" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/doktorlar-acil-servis.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/02/09/79000F0EFE638A824007F2847BA3E3FF_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/02/09/79000F0EFE638A824007F2847BA3E3FF.m3u8
 #EXTINF:-1 group-title="EZRA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ezra.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/12/23/E4E3100C83596749A77936122BF9C958_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2014/12/23/E4E3100C83596749A77936122BF9C958.m3u8
 #EXTINF:-1 group-title="EZRA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ezra.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/12/31/CCA68874299E4F43AE1E5C7516F4DE7F_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2014/12/31/CCA68874299E4F43AE1E5C7516F4DE7F.m3u8
 #EXTINF:-1 group-title="FATIHHARBIYE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fatih-harbiye.jpg", 16. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/16/0E2E680A285CC1C5143A4274D8F94071.m3u8
 #EXTINF:-1 group-title="FATIHHARBIYE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fatih-harbiye.jpg", 17. Bölüm
@@ -3584,47 +3584,47 @@ https://vmcdn.ciner.com.tr/ht/2024/07/17/63CD3230151A0F14E0F9F9AE03238441.m3u8
 #EXTINF:-1 group-title="FATIHHARBIYE" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/fatih-harbiye.jpg", 50. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/07/19/0FC36C9A64FC256321C15B921221C33B.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/16/E0BB44FDA102763AD71B857E7A55BB74_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/16/E0BB44FDA102763AD71B857E7A55BB74.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/12/561EFBDE1F2B5FD2C42EAA24F0D92DD7_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/12/561EFBDE1F2B5FD2C42EAA24F0D92DD7.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/20/769AEE74C03F784E7B185E5F42C9FB1D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/20/769AEE74C03F784E7B185E5F42C9FB1D.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/30/662B44D929350EE729BC70A4BCE76C12_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/30/662B44D929350EE729BC70A4BCE76C12.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/01/09/D270FD58C9F56FA7E2BFFA710FF81CEE_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/01/09/D270FD58C9F56FA7E2BFFA710FF81CEE.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/01/17/4DFA269307A1E75D48D7CE91AFB0EB5A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/01/17/4DFA269307A1E75D48D7CE91AFB0EB5A.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/01/23/32A5FEC8788AEB27333368541ED27613_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/01/23/32A5FEC8788AEB27333368541ED27613.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/02/06/9EF9DBEC9E773C8024F4C125621BA50A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/02/06/9EF9DBEC9E773C8024F4C125621BA50A.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/02/13/E2496054C544DF20C8B3DC60EE34F022_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/02/13/E2496054C544DF20C8B3DC60EE34F022.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/03/18/AF087F77504E5373767F9AFD6CFE301C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/03/18/AF087F77504E5373767F9AFD6CFE301C.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/03/12/61960E4094569EC0E8A3969B2EB5A5FE_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/03/12/61960E4094569EC0E8A3969B2EB5A5FE.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/03/19/5883357C6104B1197F03C4E20E70651B_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/03/19/5883357C6104B1197F03C4E20E70651B.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/03/26/D04BD4BDA0D77AB3ED36D35F774632D1_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/03/26/D04BD4BDA0D77AB3ED36D35F774632D1.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/04/03/06BBE00B8C5C0B9F7A588ACF279B058E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/04/03/06BBE00B8C5C0B9F7A588ACF279B058E.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/04/09/023529F888490A3DD2DAC386653123AF_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/04/09/023529F888490A3DD2DAC386653123AF.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/04/16/3DA3AB565E74156BFEAECF6487CEFEEC_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/04/16/3DA3AB565E74156BFEAECF6487CEFEEC.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/04/23/BEC190BC55AAE55FDEC661E97ECA4E4E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/04/23/BEC190BC55AAE55FDEC661E97ECA4E4E.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 17. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/04/30/AD22641DD63025263E40A01BFF510E28_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/04/30/AD22641DD63025263E40A01BFF510E28.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 18. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/05/07/D5ED4FFA2FD621C02B07097F98B2360E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/05/07/D5ED4FFA2FD621C02B07097F98B2360E.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 19. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/05/21/D9229041F9E5638455743E4358869078_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/05/21/D9229041F9E5638455743E4358869078.m3u8
 #EXTINF:-1 group-title="SEVDALUK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdaluk.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/05/28/1CF7E6977FAF6B7F82D168D011369835_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/05/28/1CF7E6977FAF6B7F82D168D011369835.m3u8
 #EXTINF:-1 group-title="BENIMICINUZULME" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/benim-icin-uzulme.jpg", 33. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/09/03/89877AE85320B1FAA6AB932D6ADF35F3.m3u8
 #EXTINF:-1 group-title="BENIMICINUZULME" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/benim-icin-uzulme.jpg", 34. Bölüm
@@ -3754,311 +3754,311 @@ https://vmcdn.ciner.com.tr/ht/2024/08/23/7D70375CFEAAE7400E115F43104BCD72.m3u8
 #EXTINF:-1 group-title="ADINIKALBIMEYAZDIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/adini-kalbime-yazdim.jpg", 16. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/23/C4CF806166533440A8AD03D024BA5B71.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A1BFB4BD767D49A5A6E9B8A04362E71F_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A1BFB4BD767D49A5A6E9B8A04362E71F.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/2F608152155F4EEB97C8F8A88D25EEAA_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/2F608152155F4EEB97C8F8A88D25EEAA.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/229D28743A9C44E38C407EAB19EF27AB_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/229D28743A9C44E38C407EAB19EF27AB.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C6D3DA99AB8D4125AE4143DB3F606A07_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C6D3DA99AB8D4125AE4143DB3F606A07.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/12E715EB6D51489FAA69839A7F358C32_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/12E715EB6D51489FAA69839A7F358C32.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/58A05D79430543589704EA2FDC13E475_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/58A05D79430543589704EA2FDC13E475.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9CADB5F760E04A0ABC7225CE10350E7D_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9CADB5F760E04A0ABC7225CE10350E7D.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/1D97A0DB537844D9BA09316058C1131E_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/1D97A0DB537844D9BA09316058C1131E.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/65204F75B4D24572B347635EB9FFE74B_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/65204F75B4D24572B347635EB9FFE74B.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/70A69616A01544DFBB754E494694144F_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/70A69616A01544DFBB754E494694144F.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/ED4308726CB34442B6268DE40D02C799_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/ED4308726CB34442B6268DE40D02C799.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/54DEEC6C76CF47E8B8FC871189C72007_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/54DEEC6C76CF47E8B8FC871189C72007.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/19B39DC267D34891A9256CF2BE9EB64A_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/19B39DC267D34891A9256CF2BE9EB64A.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/CA6456BE1BC74848A3FBF51C72C1BC8C_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/CA6456BE1BC74848A3FBF51C72C1BC8C.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/2524ACC2E7F5406D860F3CD0A8AA1ED7_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/2524ACC2E7F5406D860F3CD0A8AA1ED7.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/2A2FFE53B16448EEA04AA07F996A0980_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/2A2FFE53B16448EEA04AA07F996A0980.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 17. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/F16FC1FE69DB4ECEA6A8F6C0880B922A_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/F16FC1FE69DB4ECEA6A8F6C0880B922A.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 18. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/633DD0C3F5AC4694AFE4D186621D613F_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/633DD0C3F5AC4694AFE4D186621D613F.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 19. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/2227E1E0EB574711BF7E09CA0DD6729B_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/2227E1E0EB574711BF7E09CA0DD6729B.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3C8BCB4A6A814A6C88E36743AB057251_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3C8BCB4A6A814A6C88E36743AB057251.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 21. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/784DA513E5F0427C8A8EAE18DFFF89BB_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/784DA513E5F0427C8A8EAE18DFFF89BB.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 22. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/916C477235BE473397D1A3AC2F7F56B2_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/916C477235BE473397D1A3AC2F7F56B2.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 23. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/905DF64E8B6A472C96604239D1A144F8_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/905DF64E8B6A472C96604239D1A144F8.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 24. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/00E3EE53930646E7BF836F461AC2F059_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/00E3EE53930646E7BF836F461AC2F059.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 25. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/EF169D6A6F4F460AA644B71E201D2A5C_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/EF169D6A6F4F460AA644B71E201D2A5C.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 26. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/E22D64C3B137421380AE43BED8127907_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/E22D64C3B137421380AE43BED8127907.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 27. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A469B0392DB64AB894816F6EC3FB8A6E_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A469B0392DB64AB894816F6EC3FB8A6E.m3u8
 #EXTINF:-1 group-title="SUSKUNLAR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/suskunlar.jpg", 28. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C06DBAD9247E43EDB21B581F29985D74_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C06DBAD9247E43EDB21B581F29985D74.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/BB44B943860900A6DBE6E041DB19B725_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/BB44B943860900A6DBE6E041DB19B725.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/A35F3C3D7F0B8D4DE95249EBAFA4C87E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/A35F3C3D7F0B8D4DE95249EBAFA4C87E.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/73B78002C900764D6EDBA385CC6197F0_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/73B78002C900764D6EDBA385CC6197F0.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/13813D47EED488F9F2C15FE4CD7662BD_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/13813D47EED488F9F2C15FE4CD7662BD.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/61978370367FEE198202BC61F3027B13_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/61978370367FEE198202BC61F3027B13.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/3731EBF8939C91965AEF714FE1BBB430_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/3731EBF8939C91965AEF714FE1BBB430.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/D2A7945E915056B4E22A10073DEEC3F8_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/D2A7945E915056B4E22A10073DEEC3F8.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/58921FA79C5EAE92C43F29917DFF8264_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/58921FA79C5EAE92C43F29917DFF8264.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/319DE883DFFE4DD5F60E8047F471615A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/319DE883DFFE4DD5F60E8047F471615A.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/F6BBE66626CED7DD8FCB043DB5EE929E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/F6BBE66626CED7DD8FCB043DB5EE929E.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/4D34C980855066F0B808A27A1FC9BBF9_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/4D34C980855066F0B808A27A1FC9BBF9.m3u8
 #EXTINF:-1 group-title="RUZGARLISOKAK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/ruzgarli-sokak.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/12/11/A3C3C51214E6BAB5AB6A4672232676D9_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/12/11/A3C3C51214E6BAB5AB6A4672232676D9.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/3B591402504E1C1F1893CCEDA9B06D33_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/3B591402504E1C1F1893CCEDA9B06D33.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/05734F20C64A6444C496F67ECC6F2929_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/05734F20C64A6444C496F67ECC6F2929.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/E1442D6CF278757AB741B7D29EC2EFBF_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/E1442D6CF278757AB741B7D29EC2EFBF.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/4D26A1E3C45E7D0F29B96D4E40029D73_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/4D26A1E3C45E7D0F29B96D4E40029D73.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/E910EA4D6E5AE83955BF03A8D7346F53_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/E910EA4D6E5AE83955BF03A8D7346F53.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/A2107AA843D4CF2B41FC7953EBB334E6_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/A2107AA843D4CF2B41FC7953EBB334E6.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/72DC5DE74CDBF4F4F34BDAB3558110AC_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/72DC5DE74CDBF4F4F34BDAB3558110AC.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/E0490ECBB21A6D818BF50C96A8237AF9_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/E0490ECBB21A6D818BF50C96A8237AF9.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/8E6E12B6B3768E8442652B6DB81AC52D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/8E6E12B6B3768E8442652B6DB81AC52D.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/806413C5E497D1C9B2885FFBF382BABA_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/806413C5E497D1C9B2885FFBF382BABA.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4CC48F93263C31827E96B6519E8F69FF_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4CC48F93263C31827E96B6519E8F69FF.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/01/1B6C76E643BB55F9BCBD79C4C86E6D17_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/01/1B6C76E643BB55F9BCBD79C4C86E6D17.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/01/4F958B0687A7757A9BE7F6C0AFA897AA_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/01/4F958B0687A7757A9BE7F6C0AFA897AA.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/01/A20086298E5F417BAD62B9605FDD9DD0_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/01/A20086298E5F417BAD62B9605FDD9DD0.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/0D11DC7FE2F1B986A9B9FE0DC08AAED1_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/0D11DC7FE2F1B986A9B9FE0DC08AAED1.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/181F171BBB1A5DB61043025C5E1B719D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/181F171BBB1A5DB61043025C5E1B719D.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 17. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/0F6FACB57E10F3ACC6F8C4CB36135D6D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/0F6FACB57E10F3ACC6F8C4CB36135D6D.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 18. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/FB0F5693962B2F924E46819EEDC3E979_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/FB0F5693962B2F924E46819EEDC3E979.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 19. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/09/20/A9B331BFBF01D0E3D350D05AFC74BED5_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/09/20/A9B331BFBF01D0E3D350D05AFC74BED5.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/09/20/5490650C7A377FE0FBAF9F78263582D9_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/09/20/5490650C7A377FE0FBAF9F78263582D9.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 21. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/B446B6C14BB8F78F018994E129712A68_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/B446B6C14BB8F78F018994E129712A68.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 22. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/7CBC0F1FAFCEC2C1071895F1BD21E0FB_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/7CBC0F1FAFCEC2C1071895F1BD21E0FB.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 23. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/96ADB4EDD4FB9A5C41492A0769F3843B_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/96ADB4EDD4FB9A5C41492A0769F3843B.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 24. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/0AB22189F43CF5926E13854B1812E4BA_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/0AB22189F43CF5926E13854B1812E4BA.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 25. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/850DDF38E44272E8386B509EA5CCA5A4_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/850DDF38E44272E8386B509EA5CCA5A4.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 26. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/14/BE02528F2DB3BCA1EB6B6EAD2DD85767_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/14/BE02528F2DB3BCA1EB6B6EAD2DD85767.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 27. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/15/3691E34D6D976211C228790BD89ADED1_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/15/3691E34D6D976211C228790BD89ADED1.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 28. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/15/EBA63E75AAF25F88568B8220F884D005_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/15/EBA63E75AAF25F88568B8220F884D005.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 29. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/30/7C97E2438825B0152BF87656BD37F594_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/30/7C97E2438825B0152BF87656BD37F594.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 30. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/30/E6C01F6FEA64E079EE6198AA131CF22C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/30/E6C01F6FEA64E079EE6198AA131CF22C.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 31. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/30/9DFBFCF6990F212F54F8BE33AEA309BA_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/30/9DFBFCF6990F212F54F8BE33AEA309BA.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 32. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/30/AC03CE990C0FCFFB7C5A49F72DDF4A33_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/30/AC03CE990C0FCFFB7C5A49F72DDF4A33.m3u8
 #EXTINF:-1 group-title="BEBEKISI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/bebek-isi.jpg", 33. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/11/05/0F9DCBF408490359FE1073B123FF9474_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/11/05/0F9DCBF408490359FE1073B123FF9474.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/0F5FA346F1F94C8E8CAADE8DA222D825_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/0F5FA346F1F94C8E8CAADE8DA222D825.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A486F7B6B196421988FDD071FE48787D_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A486F7B6B196421988FDD071FE48787D.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3EABFDC0C59A47EBABF17CCD2236F580_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3EABFDC0C59A47EBABF17CCD2236F580.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/76C4E944674E4C7289C2DC4C8EBDD16C_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/76C4E944674E4C7289C2DC4C8EBDD16C.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/902F44FEAB9E4A8C95B14FBFFE837E7E_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/902F44FEAB9E4A8C95B14FBFFE837E7E.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/52CCDE5113BB482DBA19538298A97755_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/52CCDE5113BB482DBA19538298A97755.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/1D75FC3EFE38478B92405572A2F1A4D8_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/1D75FC3EFE38478B92405572A2F1A4D8.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/17AC1D272E9B43118120FECE14421876_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/17AC1D272E9B43118120FECE14421876.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/DF1583EF06E042768E8FF6445029AC16_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/DF1583EF06E042768E8FF6445029AC16.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/8630EAF56D23495A9278F41772517343_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/8630EAF56D23495A9278F41772517343.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/24B40FED675845D18BB027C27B963FEB_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/24B40FED675845D18BB027C27B963FEB.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/8BBCB100A2F64552B146EF7BBEDB7983_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/8BBCB100A2F64552B146EF7BBEDB7983.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/E631CE62F7EA40E492203F0E610A71FC_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/E631CE62F7EA40E492203F0E610A71FC.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/BED3ED5C55474EFF853202229DF76774_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/BED3ED5C55474EFF853202229DF76774.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/781F485C281C4A82AC6143337B8257CF_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/781F485C281C4A82AC6143337B8257CF.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3E2FFDBD441F403FA4B38E77DFE158DE_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3E2FFDBD441F403FA4B38E77DFE158DE.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/09/20/CE96EE19951DD019576F68C3D3E6B436_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/09/20/CE96EE19951DD019576F68C3D3E6B436.m3u8
 #EXTINF:-1 group-title="HERSEYYOLUNDA" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/her-sey-yolunda.jpg", 21. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/09/21/2862AC06A579CBDECE11CECA83711267_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/09/21/2862AC06A579CBDECE11CECA83711267.m3u8
 #EXTINF:-1 group-title="SENSIZOLMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sensiz-olmaz.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/783478533E494F2D98DE49A69C34D8B1_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/783478533E494F2D98DE49A69C34D8B1.m3u8
 #EXTINF:-1 group-title="SENSIZOLMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sensiz-olmaz.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/D0034194C6174097A570D368EAF0A371_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/D0034194C6174097A570D368EAF0A371.m3u8
 #EXTINF:-1 group-title="SENSIZOLMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sensiz-olmaz.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4DE2C564E39149C8B5BE3DE1A3C0245F_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4DE2C564E39149C8B5BE3DE1A3C0245F.m3u8
 #EXTINF:-1 group-title="SENSIZOLMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sensiz-olmaz.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3EF69811443B4C04992EC8E1E506DEE2_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3EF69811443B4C04992EC8E1E506DEE2.m3u8
 #EXTINF:-1 group-title="SENSIZOLMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sensiz-olmaz.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B64C9BBF2EC546459EB5144B41790F3A_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B64C9BBF2EC546459EB5144B41790F3A.m3u8
 #EXTINF:-1 group-title="SENSIZOLMAZ" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sensiz-olmaz.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/41DFE3CE7A7141038A172CC30D5E0D91_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/41DFE3CE7A7141038A172CC30D5E0D91.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/461962B6D24B4E03A1E2261EB6ED6171_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/461962B6D24B4E03A1E2261EB6ED6171.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/71875112EDCB41559BBD499B798D63FA_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/71875112EDCB41559BBD499B798D63FA.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/03D8237F0B654D65AB698A0964E6A2F4_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/03D8237F0B654D65AB698A0964E6A2F4.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/03B8D6A2B5D74E8C8F824742FFFFB5FD_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/03B8D6A2B5D74E8C8F824742FFFFB5FD.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/F6B2FC10F0464A1583EEFB9EB0F2D6B3_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/F6B2FC10F0464A1583EEFB9EB0F2D6B3.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/38E894AE4DC24355B2EC88B35CBAF19F_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/38E894AE4DC24355B2EC88B35CBAF19F.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/7A58A63A0BE9426784A23CA3704BB313_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/7A58A63A0BE9426784A23CA3704BB313.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/10E9353838EF4C6A8341974D65769B9C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/10E9353838EF4C6A8341974D65769B9C.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/19BA9C4FA3464C85AECBEB284ECA4AF3_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/19BA9C4FA3464C85AECBEB284ECA4AF3.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/6E8F02CA98D649729CCACEA1F40DCAFE_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/6E8F02CA98D649729CCACEA1F40DCAFE.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3CAA54364ADC4539A847AB495D5F4E8C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3CAA54364ADC4539A847AB495D5F4E8C.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4D90B278FBA542399101C4D9F34A4786_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4D90B278FBA542399101C4D9F34A4786.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A6302003605343FBB23630C296E69810_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A6302003605343FBB23630C296E69810.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C55086928A204AA09FA6F538F34B4C18_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C55086928A204AA09FA6F538F34B4C18.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3C8DDDE0C35E452BAE8311E41A322B88_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3C8DDDE0C35E452BAE8311E41A322B88.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/491BE3BABA3148DCBF431199935C644E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/491BE3BABA3148DCBF431199935C644E.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 17. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/BDFF398DC17A4C6E955316EC8CBA974C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/BDFF398DC17A4C6E955316EC8CBA974C.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 19. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4E5C4A3B78E94CDC9C8E253F9DC425C7_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4E5C4A3B78E94CDC9C8E253F9DC425C7.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/1FE8E9BF5B764E04B41F789C199C354D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/1FE8E9BF5B764E04B41F789C199C354D.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 21. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/719ACACE8E014065A864C69109EE3ED3_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/719ACACE8E014065A864C69109EE3ED3.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 22. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/2D30004E4F54433392BEDF85D233963D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/2D30004E4F54433392BEDF85D233963D.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 23. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9EBB117A6C424ABAB1CA8F19A03C5BE7_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9EBB117A6C424ABAB1CA8F19A03C5BE7.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 25. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/BF01EB0E3EFC413E828373E8FEE8FDCB_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/BF01EB0E3EFC413E828373E8FEE8FDCB.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 26. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/0BB2755950F6406E8DBF53617AE0F915_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/0BB2755950F6406E8DBF53617AE0F915.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 28. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/36B9B7F0A2FD4907925DDD7DE37CDE71_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/36B9B7F0A2FD4907925DDD7DE37CDE71.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 29. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/188944EFD6484D3DA758999863B92877_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/188944EFD6484D3DA758999863B92877.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 30. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/61EC3616B0AA44B4A2A6F1797785979E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/61EC3616B0AA44B4A2A6F1797785979E.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 31. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/96F55EE9D12A475D87B1EECD6B2F702F_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/96F55EE9D12A475D87B1EECD6B2F702F.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 33. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/21D64F222B884947A6AE2B8C185CB9EF_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/21D64F222B884947A6AE2B8C185CB9EF.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 34. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/23D02F5952AB4D06859B466A5344D61A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/23D02F5952AB4D06859B466A5344D61A.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 35. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/77926E474A144FEA8420964EB644E061_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/77926E474A144FEA8420964EB644E061.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 36. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/318B9CB057D04ED38A64FD6A7828BCD1_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/318B9CB057D04ED38A64FD6A7828BCD1.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 37. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/F692280D5C124FB3AEA812ECE21584CC_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/F692280D5C124FB3AEA812ECE21584CC.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 38. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9D06985C6B09458697BD31188C73E5C6_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9D06985C6B09458697BD31188C73E5C6.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 39. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/87CEF361695F4049A9CED912E2985FD6_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/87CEF361695F4049A9CED912E2985FD6.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 40. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9227C1D6AD854F8AA9936905E2F17334_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9227C1D6AD854F8AA9936905E2F17334.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 41. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/33A57BF95FED409DA44FB44C518169CE_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/33A57BF95FED409DA44FB44C518169CE.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 42. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/07AE6489BAA540029C1CEE64E4D7128C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/07AE6489BAA540029C1CEE64E4D7128C.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 44. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/726396B1279F40A0B35B6D0772D47D7C_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/726396B1279F40A0B35B6D0772D47D7C.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 45. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4DDD611208834006A53963B8F959851F_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4DDD611208834006A53963B8F959851F.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 46. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/06E4BCD8EC3142C987AA353B15E28EC8_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/06E4BCD8EC3142C987AA353B15E28EC8.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 47. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/D95ACCF6797641188C8A4B86D10EA4AF_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/D95ACCF6797641188C8A4B86D10EA4AF.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 48. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A33A5E61013A4DB9A26A6CC9ACFC09FD_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A33A5E61013A4DB9A26A6CC9ACFC09FD.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 49. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/5342DF79E3F34191B28E39B63D89C3D7_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/5342DF79E3F34191B28E39B63D89C3D7.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 50. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/51441F554F1C4E21AD257AB5CAC10615_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/51441F554F1C4E21AD257AB5CAC10615.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 51. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/93DB2089D03742629CFF2E8BF1AF6B27_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/93DB2089D03742629CFF2E8BF1AF6B27.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 52. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/DE9E6C9847874CCAB357EC78F4E31DE3_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/DE9E6C9847874CCAB357EC78F4E31DE3.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 53. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B1EAE772348B4D1E890A08338E997E85_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B1EAE772348B4D1E890A08338E997E85.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 54. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C93A2D35452E49C7932A614F55B0F233_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C93A2D35452E49C7932A614F55B0F233.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 55. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B5FBE24493184AE082AD9C9B30F6F2E4_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B5FBE24493184AE082AD9C9B30F6F2E4.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 56. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4C9D4A9436494AE8B7BC7DA67C7ADA80_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4C9D4A9436494AE8B7BC7DA67C7ADA80.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 57. Bölüm
 https://vmcdn.ciner.com.tr/ht/2024/08/06/CE0C48225F99080BED81AD66260981B2.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 58. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B35A4F3DC3FE4F329E42A8FD4D59AC55_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B35A4F3DC3FE4F329E42A8FD4D59AC55.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 59. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/CA2D7BA4CF614688BE85E6454D9E9FEA_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/CA2D7BA4CF614688BE85E6454D9E9FEA.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 60. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/D24F5296640F4D58B19A451C6DCBED75_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/D24F5296640F4D58B19A451C6DCBED75.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 61. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/1522409BC159400BBCC79491AC47E7EE_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/1522409BC159400BBCC79491AC47E7EE.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 62. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/03/30/3A74D2D9A23FF87E125425C1C42030CB.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 63. Bölüm
@@ -4094,131 +4094,131 @@ https://vmcdn.ciner.com.tr/ht/2020/03/30/E24867114539ADDDD4375AC750375B5D.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 94. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/11/19/F779028C9E262D597E4ECB368282EA7C.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 100. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/60D423B639144E748B493BA87231029E_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/60D423B639144E748B493BA87231029E.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 101. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3337104735C14995AE53F6187202EE76_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3337104735C14995AE53F6187202EE76.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 102. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9AE9A0A8D92B49C8B9BF9356592835B9_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9AE9A0A8D92B49C8B9BF9356592835B9.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 103. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9D41323E677D4314B5AEB14B73B6695B_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9D41323E677D4314B5AEB14B73B6695B.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 104. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/0B1B549F389E446890B97EC086BE460B_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/0B1B549F389E446890B97EC086BE460B.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 105. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/DB3FDA6400884648BB1F24BCE612D6A8_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/DB3FDA6400884648BB1F24BCE612D6A8.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 106. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/490F1827C18F4EC4B23665023B1AB7F2_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/490F1827C18F4EC4B23665023B1AB7F2.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 107. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/AFE866E4351C4B038E32CB87DB782B7A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/AFE866E4351C4B038E32CB87DB782B7A.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 108. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/E98D7304ED284DC6A09E99E4C03BDB49_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/E98D7304ED284DC6A09E99E4C03BDB49.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 109. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/71F3A8B4FD754B768DE7C5F81CFED365_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/71F3A8B4FD754B768DE7C5F81CFED365.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 110. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C7D6DC769F5E48E794FBC8599CE1EA58_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C7D6DC769F5E48E794FBC8599CE1EA58.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 111. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/D73066A0EE0B4BE186EA02DBEB5BA7BD_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/D73066A0EE0B4BE186EA02DBEB5BA7BD.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 112. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/63A64A8793BD4C608C9941F06FCE1713_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/63A64A8793BD4C608C9941F06FCE1713.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 113. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3D58DB8F951C44198A2E7A6761B72810_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3D58DB8F951C44198A2E7A6761B72810.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 114. Bölüm
 https://vmcdn.ciner.com.tr/ht/2013/10/02/43A4A3CBD4B6450FA4DFFA5E2DA8E16D_640x360.mp4
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 115. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/E6BE71D1DC044DB19166CA3CAF5EE819_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/E6BE71D1DC044DB19166CA3CAF5EE819.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 116. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/EC490891BFC5481491EF84BA0DBD3703_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/EC490891BFC5481491EF84BA0DBD3703.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 117. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/188C5AC23D5B4F3F9DF5574F0F3FEEF5_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/188C5AC23D5B4F3F9DF5574F0F3FEEF5.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 118. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/69C986AF2C62463E87E2E3F4636253CE_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/69C986AF2C62463E87E2E3F4636253CE.m3u8
 #EXTINF:-1 group-title="CENNETMAHALLESI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg", 119. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/7B5940F096CD45BAB2F8541BF17C2CB5_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/7B5940F096CD45BAB2F8541BF17C2CB5.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4A73489EE02141E2807DDC14A10945D8_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4A73489EE02141E2807DDC14A10945D8.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/48CCC6E7F55D4FAEB7C79431E1C5A53A_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/48CCC6E7F55D4FAEB7C79431E1C5A53A.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/49C6AEAFD2C7465DB73B0CA80521A157_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/49C6AEAFD2C7465DB73B0CA80521A157.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/D958F910EF8C400EB054382F2944DB75_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/D958F910EF8C400EB054382F2944DB75.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/6693DD31A2864FB5AA6AFE8A7E6802F7_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/6693DD31A2864FB5AA6AFE8A7E6802F7.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B4043DBEDBA34FC9BC7BCB3A648AE27C_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B4043DBEDBA34FC9BC7BCB3A648AE27C.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/91510E0551A046BEB9AC674EF1204FF0_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/91510E0551A046BEB9AC674EF1204FF0.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/49E6C236309244E9918E97360A071D51_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/49E6C236309244E9918E97360A071D51.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B0030A1C84D348A981C81E9CE00C4479_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B0030A1C84D348A981C81E9CE00C4479.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/48A0CA40A7CC47779C9DCA94BD9226BC_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/48A0CA40A7CC47779C9DCA94BD9226BC.m3u8
 #EXTINF:-1 group-title="LALEDEVRI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/lale-devri.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/53A38F7700B3443F942B9B2CAF041759_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/53A38F7700B3443F942B9B2CAF041759.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/DC3DD63CB49F40E79F91B674960FA3F5_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/DC3DD63CB49F40E79F91B674960FA3F5.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/DD424DB8DCF949C2BD837E9E3836CE7A_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/DD424DB8DCF949C2BD837E9E3836CE7A.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/CD4884E52B234D219655E4A92DAEAE64_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/CD4884E52B234D219655E4A92DAEAE64.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B23A5CD704B04627B96CD58AC756FE02_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B23A5CD704B04627B96CD58AC756FE02.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C0265F17B17A46D0838D2C7B3AC0A6AF_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C0265F17B17A46D0838D2C7B3AC0A6AF.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/1144A68A96D647CE86A1F9047DE7549C_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/1144A68A96D647CE86A1F9047DE7549C.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/F169E7A68A21477A915AC02E9E37FF86_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/F169E7A68A21477A915AC02E9E37FF86.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/6216D8BAF37E451A968248E697B402BB_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/6216D8BAF37E451A968248E697B402BB.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/EE28C8A3B5E2471785AF8E479CB6F58D_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/EE28C8A3B5E2471785AF8E479CB6F58D.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/90F10D2903134813A358A1E51FB56D47_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/90F10D2903134813A358A1E51FB56D47.m3u8
 #EXTINF:-1 group-title="GDOGUDANOYKULERONCEVATAN" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/g.dogudan-oykuler-once-vatan.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/99B4E67DBD754C48A3E094E13C0827AF_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/99B4E67DBD754C48A3E094E13C0827AF.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/93E51833A58A424D841BB72CA4F33BAC_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/93E51833A58A424D841BB72CA4F33BAC.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A75439784F41439583667A9044982869_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A75439784F41439583667A9044982869.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/41ADD2935A0147929582485D33BBCCEA_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/41ADD2935A0147929582485D33BBCCEA.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/BFD841237C7840AB8FA25D0E94A5DE76_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/BFD841237C7840AB8FA25D0E94A5DE76.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4D05549E68C340A085A3BC0CAE553C35_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4D05549E68C340A085A3BC0CAE553C35.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/0B0D528741A449AB95A56D8A392E0E62_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/0B0D528741A449AB95A56D8A392E0E62.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/68507CB0A19E485DB3DCCF2C6025479C_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/68507CB0A19E485DB3DCCF2C6025479C.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/B16B49A24C6944C09E6191B51C6E4B7A_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/B16B49A24C6944C09E6191B51C6E4B7A.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3B788C2D335C4EC18281D8B13D40B301_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3B788C2D335C4EC18281D8B13D40B301.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/3983251A1C1A40DDA63D22411A305347_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/3983251A1C1A40DDA63D22411A305347.m3u8
 #EXTINF:-1 group-title="DUSMANKARDESLER" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/dusman-kardesler.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/4A8FD5893F9F474D883A96359FAA20E5_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/4A8FD5893F9F474D883A96359FAA20E5.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/FF1A03AA5B5B4E82BA33A6BB1DF314F2_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/FF1A03AA5B5B4E82BA33A6BB1DF314F2.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/E91876704D344BD0A948F8A3C8816289_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/E91876704D344BD0A948F8A3C8816289.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/EDC446301C0246A39B9B888FDA3177F9_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/EDC446301C0246A39B9B888FDA3177F9.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/32B24E8376B64A969B0974D7784A557B_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/32B24E8376B64A969B0974D7784A557B.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/C267B15753D24EF19E6B8CBAE8DA7582_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/C267B15753D24EF19E6B8CBAE8DA7582.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/FE1B6BF101AA4456BC38A157B8B9AB15_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/FE1B6BF101AA4456BC38A157B8B9AB15.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/D1666B78918946ACACBD5CA38C7D6359_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/D1666B78918946ACACBD5CA38C7D6359.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/9995EEBFFB5940A9955CA4C1406E8924_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/9995EEBFFB5940A9955CA4C1406E8924.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/A59CD1D626FD4338BB34AA4D0B262A6F_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/A59CD1D626FD4338BB34AA4D0B262A6F.m3u8
 #EXTINF:-1 group-title="SALIHKUSU" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/salih-kusu.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2013/10/02/09C6091A44CF4481A03A330B37D12D5D_424x318.mp4
+https://vmcdn.ciner.com.tr/ht/2013/10/02/09C6091A44CF4481A03A330B37D12D5D.m3u8
 #EXTINF:-1 group-title="GUZYANGINI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/guz-yangini.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/03/31/115DC3C8C9E9ABFF343743CFA78BC925.m3u8
 #EXTINF:-1 group-title="GUZYANGINI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/guz-yangini.jpg", 2. Bölüm
@@ -4246,17 +4246,17 @@ https://vmcdn.ciner.com.tr/ht/2020/03/31/45ECFA988890E5FAA27C9FA8C51B5F6F.m3u8
 #EXTINF:-1 group-title="GUZYANGINI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/guz-yangini.jpg", 13. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/03/31/0251F29058F5D49A1A9232B15DA29EF9.m3u8
 #EXTINF:-1 group-title="ROMANHAVASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/roman-havasi.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/12/05/ECDF9D46BED2CADF943FA4EFBFA5116D_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/12/05/ECDF9D46BED2CADF943FA4EFBFA5116D.m3u8
 #EXTINF:-1 group-title="ROMANHAVASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/roman-havasi.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/12/11/806D0CC2AD7EAD19B3678E8DCC4EE941_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2014/12/11/806D0CC2AD7EAD19B3678E8DCC4EE941.m3u8
 #EXTINF:-1 group-title="ROMANHAVASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/roman-havasi.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/12/18/5357996C157B68E6C0E04AA39691D2CA_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2014/12/18/5357996C157B68E6C0E04AA39691D2CA.m3u8
 #EXTINF:-1 group-title="ROMANHAVASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/roman-havasi.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2014/12/27/628172B202B4C197B6668FAB9D1D0771_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2014/12/27/628172B202B4C197B6668FAB9D1D0771.m3u8
 #EXTINF:-1 group-title="ROMANHAVASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/roman-havasi.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/01/03/ED284FDA0E32553F953F7132B276E2C3_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/01/03/ED284FDA0E32553F953F7132B276E2C3.m3u8
 #EXTINF:-1 group-title="ROMANHAVASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/roman-havasi.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/01/11/46C88B1D99C14057F8FCA480EF504425_1280x720.mp4
+https://vmcdn.ciner.com.tr/ht/2015/01/11/46C88B1D99C14057F8FCA480EF504425.m3u8
 #EXTINF:-1 group-title="MELEK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/melek.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/04/04/1C9F1F707897890EE92EBA34D36E0142.m3u8
 #EXTINF:-1 group-title="MELEK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/melek.jpg", 2. Bölüm
@@ -4432,53 +4432,53 @@ https://vmcdn.ciner.com.tr/ht/2020/04/07/D7B09C5CA262B2C3AF98F08C4F21CA21.m3u8
 #EXTINF:-1 group-title="ENIYIARKADASIM" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/en-iyi-arkadasim.jpg", 44. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/04/07/F319198F275038EFF1247C61B44ABFBA.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 1. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/03/16/5E24DD58E574A6ED8C71475D2AB19477_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/142BBF436FD63574B29664BFD6DE8D20.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 2. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/03/23/FEFBE185D31BA32E59AD835D0CDF263A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/A3F46FCB9B09E62F8E22C41B16C88450.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 3. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/03/30/EAA8FBD0B7DC824CEADC1017DD5D8887_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/59EEC80FE5E94F8A9CB34B9CC8994392.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 4. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/06/0F5A5C4A1C153ADB92815AB458D4A736_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/6EFC56085FEE233CF99F903F6165D27A.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 5. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/12/DDE037CE87CC2DA67291CA62A39B9A64_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/30508EC6AC0F94A408870BECB133483C.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 6. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/20/C644E5E3E4895E76C7E520509805B5EB_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/EA24BC98A11E89EA193869ECCADC0ED3.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 7. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/04/26/8AC94B920FE9EB0FBF6E4BE27275830A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/9E9CADC78BA11FC76347B5F5AD171721.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 8. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/05/03/CF0CC09B2C4CDAF6CCAEA0743FD85D72_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/04063CA488A522DC60C9D220344192FC.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 9. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/05/10/5CA111E7D163F06B55EBB7FFB3EB8031_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/D43209D120F7123BF6D250B031D7C2E4.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 10. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/05/17/F5CC7B3CD98BF70E4CE8AF4511210E2F_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2026/08/14/A8A7804545FCFE69BE73620628ABDDCD.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 11. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/05/24/2ECFB795152617F9C54C936ACD361511_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/05/24/2ECFB795152617F9C54C936ACD361511.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 12. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/05/31/3501EBD19DD7D194E95A3DE5B14FC898_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/05/31/3501EBD19DD7D194E95A3DE5B14FC898.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 13. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/06/14/E8C9E847086913CEA1D1720A127F2178_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/06/14/E8C9E847086913CEA1D1720A127F2178.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 14. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/06/21/DDAF1F766B27E867105D48CC451A3704_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/06/21/DDAF1F766B27E867105D48CC451A3704.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 15. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/06/28/289D803C161FC2BEABFC3C1737990E11_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/06/28/289D803C161FC2BEABFC3C1737990E11.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 16. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/05/6F69246CB84B8ECDF50DD6A4532C472E_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/05/6F69246CB84B8ECDF50DD6A4532C472E.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 17. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/07/13/5A8FDED25A77A5EC311C25B98C127A2A_640x360.mp4
+https://vmcdn.ciner.com.tr/ht/2015/07/13/5A8FDED25A77A5EC311C25B98C127A2A.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 18. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/04/8D17D837C50CE14780C9D433874C0208_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/04/8D17D837C50CE14780C9D433874C0208.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 19. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/18/3B301AAA42596DB5E4B015C8389F615D_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/18/3B301AAA42596DB5E4B015C8389F615D.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 20. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/10/28/FF47827CD003A88B84F45581C231A370_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/10/28/FF47827CD003A88B84F45581C231A370.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 21. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/04/66A6B48427FFCF3D0386D23424ABB437_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/04/66A6B48427FFCF3D0386D23424ABB437.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 22. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/11/3A732ED3867515672AB7967943A490A4_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/11/3A732ED3867515672AB7967943A490A4.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 23. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/18/BE54E853346B5756A9D728D7C9954BC8_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/18/BE54E853346B5756A9D728D7C9954BC8.m3u8
 #EXTINF:-1 group-title="ACILASKARANIYOR" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/acil-ask-araniyor.jpg", 24. Bölüm
-https://vmcdn.ciner.com.tr/ht/2015/11/25/E520B2D82215F8DE573C49FCF5B2A582_426x240.mp4
+https://vmcdn.ciner.com.tr/ht/2015/11/25/E520B2D82215F8DE573C49FCF5B2A582.m3u8
 #EXTINF:-1 group-title="KIZBABASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kiz-babasi.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2020/04/07/2643557C384DCB67916DD6B6815B456A.m3u8
 #EXTINF:-1 group-title="KIZBABASI" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/kiz-babasi.jpg", 2. Bölüm
