@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="SEVDANBIRATES" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/sevdan-bir-ates.jpg", 1. Bölüm
+https://vmcdn.ciner.com.tr/ht/2026/09/09/E5F25FAF027E2F053309ED6462ED86BB.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 1. Bölüm
 https://vmcdn.ciner.com.tr/ht/2026/06/19/599C0867CDE33B36D591C7B9BDDF9162.m3u8
 #EXTINF:-1 group-title="MUHTEMELASK" tvg-logo="https://mo.ciner.com.tr/showtv/iu/300x300/muhtemel-ask.jpg", 2. Bölüm
